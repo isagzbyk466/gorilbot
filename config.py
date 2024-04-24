@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","SAIF_DICTATOR")
+OWNER_USERNAME = getenv("OWNER_USERNAME",None)
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "HINATA_N_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , None )
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝐇ιиαтα 𝗫 𝐑σвσт")
+BOT_NAME = getenv("BOT_NAME" ,  None)
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Naruto_for_Hinata")
+ASSUSERNAME = getenv("ASSUSERNAME" , None)
 # ---------------------------------------------------------
 
 
