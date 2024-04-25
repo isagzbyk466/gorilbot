@@ -299,6 +299,7 @@ gban_7 : "» {0} bot tarafından zaten global olarak engellenmemiş."
 gban_8 : "» Global engellemeyi kaldırılıyor {0}.\n\n<b>Beklenen süre:</b> {1}"
 gban_9 : "» Global engelleme kaldırıldı {0}.\n\n{1} sohbette engelleme kaldırıldı."
 gban_10 : "» Hiç kimse bot tarafından global olarak engellenmemiş."
+gban_11 : "» Yasaklı Kullanıcılar Listesi Alınıyor..."
 gban_12 : "🙂 <b>Global Olarak Yasaklanan Kullanıcılar :</b>\n\n"
 
 # Şarkı
