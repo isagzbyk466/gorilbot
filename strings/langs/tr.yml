@@ -300,3 +300,22 @@ gban_8 : "» Global engellemeyi kaldırılıyor {0}.\n\n<b>Beklenen süre:</b> {
 gban_9 : "» Global engelleme kaldırıldı {0}.\n\n{1} sohbette engelleme kaldırıldı."
 gban_10 : "» Hiç kimse bot tarafından global olarak engellenmemiş."
 gban_11 : "» Glo
+gban_12 = "🙂 <b>Global Olarak Yasaklanan Kullanıcılar :</b>\n\n"
+
+# Şarkı
+SG_B_1 = "• Buraya Tıklayın •"
+SG_B_2 = "🎧 Ses 🎧"
+SG_B_3 = "🎥 Video 🎥"
+
+# Şarkı
+song_1 = "YouTube'dan sadece özel sohbetlerde müzik veya video indirebilirsiniz. Lütfen beni özel sohbete başlatın."
+song_2 = "**Kullanım:**\n\n/song [müzik adı] veya [YouTube linki]"
+song_3 = "Canlı bağlantı algılandı. Canlı YouTube videolarını indiremiyorum."
+song_4 = "📌**Başlık**:- {0}\n\nİndirmek istediğiniz türü seçin."
+song_5 = "Geçerli bir YouTube bağlantısı değil."
+song_6 = "Formatlar alınıyor...\n\nLütfen bekleyin..."
+song_7 = "Video için mevcut formatlar alınamadı. Lütfen başka bir parça deneyin."
+song_8 = "İndirme başladı\n\nLütfen birkaç saniye bekleyin..."
+song_9 = "YT-DL'den şarkı indirilemedi\n\n**Sebep:** {0}"
+song_10 = "Telegram sunucularına yüklenemedi."
+song_11 = "Yükleme başladı bebeğim\n\nLütfen bekleyin..."
